@@ -70,6 +70,7 @@ const Navbar = () => {
           </div>
 
           <p>code Tested..........</p>
+          <p>demo Tested..........</p>
           <div className="flex flex-col gap-6 mt-6 px-6">
             {links.map((link) => (
               <div
